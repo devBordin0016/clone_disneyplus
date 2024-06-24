@@ -3,7 +3,7 @@
     position: sticky;
     top: 0;
     left: 0;
-    background-color: variaveis.$corDeFundo;
+    background-color: variaveis.$corDeTeste;
     transition: background-color .5s ease;
     z-index: 1;
 
@@ -15,6 +15,7 @@
                 opacity: 0;
                 visibility: hidden;
                 transition: background-color .5s ease;
+                
             }
         }
     }
